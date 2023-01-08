@@ -1,0 +1,12 @@
+
+version: '3'
+services:
+  app:
+    image: Employee-Management-System
+    build: .
+    ports:
+      - "9090:9000"
+    environment:
+      - VAR_NAME=value
+    volumes:
+      - /local/path:/container/path

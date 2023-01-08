@@ -1,0 +1,4 @@
+FROM openjdk:8
+EXPOSE 9000
+ADD target/Employee-Management-System.jar Employee-Management-System.jar
+ENTRYPOINT ["java","-jar","/Employee-Management-System.jar"]
