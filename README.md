@@ -1,6 +1,6 @@
 # Employee-Management-System
-Employee Management System using Spring Boot, Spring Security, Spring Data JPA with MySQL database, Angular, Docker <br>
-Open this file, to know how to run this code<br><br>
+Employee Management System using Spring Boot, Spring Security, Spring Data JPA with MySQL, Angular, Docker <br>
+Open this file, to know how to run this code<br>
 [Employee Management System instructions.pdf](https://github.com/talhaouianas/Employee-Management-System/files/9541524/Employee.Management.System.instructions.pdf)
 
 1- créer une BD sous le nom "jeewaeducation" pour stocker les informations des employées dans votre système de gestion de base de données.<br><br>
