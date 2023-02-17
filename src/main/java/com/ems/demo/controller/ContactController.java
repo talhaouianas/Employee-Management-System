@@ -65,7 +65,7 @@ public class ContactController {
 		mailContent += "<hr><img src='cid:logoImage' />";
 		
 		helper.setFrom("admin@gmail.com", "Admin Contact");// Add you email name
-		helper.setTo("talhaouianas1@gmail.com"); // Add you email Admin name
+		helper.setTo("exemple@gmail.com"); // Add you email Admin name
 		helper.setSubject(mailSubject);
 		helper.setText(mailContent, true);
 		
