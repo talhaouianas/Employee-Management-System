@@ -1,5 +1,5 @@
 # Employee-Management-System
-Employee Management System using Spring Boot, Spring Security, Spring Data JPA with MySQL, Angular, Docker <br>
+Employee Management System using Java 8, Framework Spring, JPA/Hibernate, MySQL, Maven, REST API, JSTL, Bootstrap 5, Docker <br>
 Open this file, to know how to run this code<br>
 [Employee Management System instructions.pdf](https://github.com/talhaouianas/Employee-Management-System/files/9541524/Employee.Management.System.instructions.pdf)
 
